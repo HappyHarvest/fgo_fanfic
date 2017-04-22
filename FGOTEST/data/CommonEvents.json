@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":102,"indent":0,"parameters":[["回復","自害せよ"],1,0,2,0]},{"code":402,"indent":0,"parameters":[0,"回復"]},{"code":311,"indent":1,"parameters":[0,0,0,0,9999,false]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"自害せよ"]},{"code":311,"indent":1,"parameters":[0,0,1,0,9999,true]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"れーじゅ","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
