@@ -10,5 +10,6 @@ null,
 {"id":8,"expanded":false,"name":"食堂","order":8,"parentId":5,"scrollX":982.8,"scrollY":553.8},
 {"id":9,"expanded":false,"name":"貨物室","order":9,"parentId":5,"scrollX":982.8,"scrollY":553.8},
 {"id":10,"expanded":false,"name":"管制室","order":10,"parentId":5,"scrollX":982.8,"scrollY":553.8},
-{"id":11,"expanded":false,"name":"階段室","order":11,"parentId":5,"scrollX":0,"scrollY":0}
+{"id":11,"expanded":false,"name":"階段室","order":11,"parentId":5,"scrollX":982.8,"scrollY":553.8},
+{"id":12,"expanded":false,"name":"上層　船内廊下(縦)","order":12,"parentId":5,"scrollX":973.1999999999999,"scrollY":553.8}
 ]
