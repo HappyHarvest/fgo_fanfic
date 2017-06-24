@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"カルデア","order":1,"parentId":0,"scrollX":481,"scrollY":456.5},
+{"id":1,"expanded":true,"name":"カルデア","order":1,"parentId":0,"scrollX":481,"scrollY":456},
 {"id":2,"expanded":true,"name":"第一特異点","order":4,"parentId":0,"scrollX":481,"scrollY":456.5},
 {"id":3,"expanded":false,"name":"カルデアネス","order":2,"parentId":1,"scrollX":481,"scrollY":456.5},
 {"id":4,"expanded":false,"name":"マイルーム","order":3,"parentId":1,"scrollX":0,"scrollY":0},
